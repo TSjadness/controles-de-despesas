@@ -1,0 +1,16 @@
+{
+  "transacoes": [
+    {
+      "id": "da9f",
+      "descricao": "cadastro 1 ",
+      "valor": 1000,
+      "tipo": "receita"
+    },
+    {
+      "id": "705f",
+      "descricao": "cadastro 2",
+      "valor": 2000,
+      "tipo": "despesa"
+    }
+  ]
+}
